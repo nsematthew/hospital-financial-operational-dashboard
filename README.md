@@ -13,6 +13,16 @@ The dashboard was developed to provide insights into revenue generation, profita
 - DAX
 - Data Modeling
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Power Query
+- DAX Measures
+- KPI Development
+- Dashboard Design
+- Data Visualization
+
 ## Data Model
 
 The solution was built using a star schema model consisting of:

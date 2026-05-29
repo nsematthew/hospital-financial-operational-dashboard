@@ -60,7 +60,7 @@ This dashboard focuses on patient and doctor activity and includes:
 
 ### Operational Overview
 
-![Operational Overview](Dashboard%202%20(Operational%20Dashboard).png)
+![Operational Overview](Dashboard%202%20(Transaction%20Dashboard).png)
 
 ## Key Insights
 

@@ -56,11 +56,11 @@ This dashboard focuses on patient and doctor activity and includes:
 
 ### Financial Overview
 
-![Financial Overview](dashboard1_financial_dashboard.png)
+(dashboard1_financial_dashboard.png)
 
 ### Operational Overview
 
-![Operational Overview](dashboard2_operational_dashboard.png)
+(dashboard2_operational_dashboard.png)
 
 ## Key Insights
 
